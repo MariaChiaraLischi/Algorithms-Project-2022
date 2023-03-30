@@ -49,7 +49,4 @@ python3 main.py
 python3 times.py
 ```
 
-## Contacts
-For further information contact Andrea Coletta at **acoletta[AT]luiss.it**; 
-Irene Finocchi   **finocchi[AT]luiss.it**.
 
