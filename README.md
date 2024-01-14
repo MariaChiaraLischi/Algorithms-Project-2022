@@ -1,4 +1,4 @@
-# Algorithms A.Y. 2021/22 
+# Algorithms Project
 ## Software project : A Stock Market Analyzer 
 
 Final Release - Market Stock Correlation
